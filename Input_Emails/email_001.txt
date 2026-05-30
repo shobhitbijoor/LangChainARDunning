@@ -1,0 +1,20 @@
+From: john.smith@acmecorp.com
+To: ar@antigravity.com
+Date: 2026-05-28
+Subject: Request for Invoice Copy - INV-001
+
+Dear Accounts Receivable Team,
+
+I hope this message finds you well. I am writing to request a copy of Invoice INV-001 issued to ACME Corp.
+
+We seem to have misplaced the original invoice document and require it urgently for our internal records and payment processing. Our accounts payable team cannot process payment without the original invoice documentation.
+
+Could you please resend Invoice INV-001 at the earliest convenience?
+
+Thank you for your prompt assistance.
+
+Best regards,
+John Smith
+Chief Financial Officer
+ACME Corp
+john.smith@acmecorp.com
